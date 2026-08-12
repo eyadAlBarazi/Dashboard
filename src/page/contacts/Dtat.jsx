@@ -1,0 +1,184 @@
+export const columns = [
+  {
+    field: "id",
+    headerName: "ID",
+    width: 33,
+  },
+  {
+    field: "registerId",
+    headerName: "Register ID",
+  },
+  {
+    field: "name",
+    headerName: "Name",
+    flex: 1,
+    cellClassName: "name-columns-cell",
+  },
+  {
+    field: "age",
+    headerName: "Age",
+    type: "number",
+    headerAlign: "left",
+    align: "left",
+      width: 44,
+  },
+  {
+    field: "phone",
+    headerName: "Phone Number",
+    flex: 1,
+  },
+  {
+    field: "email",
+    headerName: "Email",
+    flex: 1,
+  },
+  {
+    field: "address",
+    headerName: "Address",
+    flex: 1,
+  },
+  {
+    field: "city",
+    headerName: "City",
+    flex: 1,
+  },
+
+  {
+    field: "zipCode",
+    headerName: "Zip Code",
+  },
+];
+
+export const rows = [
+  {
+    id: 1,
+    name: "Eyad Al",
+    email: "eyad1442@gmail.com",
+    age: 65,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 2,
+    name: "Yamen Al",
+    email: "yamen8473@gmail.com",
+    age: 35,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 3,
+    name: "Mohamad Al",
+    email: "Mohamad4345@gmail.com",
+    age: 25,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 4,
+    name: "Tariq Al",
+    email: "Tariq8947@gmail.com",
+    age: 31,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 5,
+    name: "Mahmod Al",
+    email: "M647363@gmail.com",
+    age: 40,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 6,
+    name: "Yassin Al",
+    email: "Yassin8474@gmail.com",
+    age: 32,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 7,
+    name: "Maher Al",
+    email: "Maher7543@gmail.com",
+    age: 18,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 8,
+    name: "Zaid Al",
+    email: "Zaid4637@gmail.com",
+    age: 55,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 9,
+    name: "Ahmad Al",
+    email: "Ahmad1442@gmail.com",
+    age: 43,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 10,
+    name: "Eyad",
+    email: "eyad1442@gmail.com",
+    age: 62,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+
+  {
+    id: 11,
+    name: "Deaa Al",
+    email: "Deaa543@gmail.com",
+    age: 35,
+    phone: "(444)555-6239",
+    address: "0912 won Street, Alabama , SY 10001",
+    city: "New Yourk",
+    zipCode: "10001",
+    registerId: "124464",
+  },
+];
